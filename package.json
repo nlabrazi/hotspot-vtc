@@ -8,6 +8,7 @@
 		"check:fix": "biome check . --fix",
 		"dev": "nuxt dev",
 		"format": "biome format .",
+		"format:fix": "biome format . --fix",
 		"generate": "nuxt generate",
 		"lint": "biome lint",
 		"preview": "nuxt preview",

@@ -1,0 +1,3 @@
+/* Global styles entrypoint: loads Tailwind CSS + Nuxt UI styles. */
+@import "tailwindcss";
+@import "@nuxt/ui";
